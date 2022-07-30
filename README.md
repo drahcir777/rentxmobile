@@ -12,10 +12,6 @@ Em seguida execute a API:
 yarn start
 ```
 
-## Rotas da API
-Para visualizar exemplos testados de todas as rotas da API, você pode importar no seu Insomnia o arquivo: api/rotas_Insomnia.json 
-
-
 ## Stack
 
 - React Native
